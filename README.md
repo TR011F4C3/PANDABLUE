@@ -8,9 +8,6 @@ Although some scripts are already added, we are taking suggestions. We will only
 # Design
 Panda Blue will use the Kavo UI Library allowing for a condensed but also feature rich experience.
 
-# Release Date
-Panda Blue is in pre-alpha stages and won't be released until alpha stages. To be clear, it's coming out when it's ready.
-
 # What if I don't want my script in Panda Blue?
 Sometimes when a script is added after either a suggestion or maintainer choice, you may not be comfortable with your script being in Panda Blue. This is 100% ok and I understand why. If you want a script you own removed, please notify me on discord.
 
